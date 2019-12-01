@@ -1,0 +1,9 @@
+name: Epic
+type: theme
+description: 'Epic Theme'
+package: Other
+core: 8.x
+libraries:
+  - epic/custom
+ 
+base theme: bootstrap
